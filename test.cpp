@@ -1,4 +1,6 @@
-void testfunction()
+﻿void testfunction()
 {
 	printf("testgit");
+
+		わたしは鳥になりたい。
 }
